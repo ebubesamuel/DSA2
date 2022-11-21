@@ -1,0 +1,15 @@
+/Users/chidiebubesamuel/Projects/DSA_Inclass/DSA_Inclass/bin/Debug/net7.0/DSA_Inclass
+/Users/chidiebubesamuel/Projects/DSA_Inclass/DSA_Inclass/bin/Debug/net7.0/DSA_Inclass.deps.json
+/Users/chidiebubesamuel/Projects/DSA_Inclass/DSA_Inclass/bin/Debug/net7.0/DSA_Inclass.runtimeconfig.json
+/Users/chidiebubesamuel/Projects/DSA_Inclass/DSA_Inclass/bin/Debug/net7.0/DSA_Inclass.dll
+/Users/chidiebubesamuel/Projects/DSA_Inclass/DSA_Inclass/bin/Debug/net7.0/DSA_Inclass.pdb
+/Users/chidiebubesamuel/Projects/DSA_Inclass/DSA_Inclass/obj/Debug/net7.0/DSA_Ass1.csproj.AssemblyReference.cache
+/Users/chidiebubesamuel/Projects/DSA_Inclass/DSA_Inclass/obj/Debug/net7.0/DSA_Ass1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chidiebubesamuel/Projects/DSA_Inclass/DSA_Inclass/obj/Debug/net7.0/DSA_Ass1.AssemblyInfoInputs.cache
+/Users/chidiebubesamuel/Projects/DSA_Inclass/DSA_Inclass/obj/Debug/net7.0/DSA_Ass1.AssemblyInfo.cs
+/Users/chidiebubesamuel/Projects/DSA_Inclass/DSA_Inclass/obj/Debug/net7.0/DSA_Ass1.csproj.CoreCompileInputs.cache
+/Users/chidiebubesamuel/Projects/DSA_Inclass/DSA_Inclass/obj/Debug/net7.0/DSA_Inclass.dll
+/Users/chidiebubesamuel/Projects/DSA_Inclass/DSA_Inclass/obj/Debug/net7.0/refint/DSA_Inclass.dll
+/Users/chidiebubesamuel/Projects/DSA_Inclass/DSA_Inclass/obj/Debug/net7.0/DSA_Inclass.pdb
+/Users/chidiebubesamuel/Projects/DSA_Inclass/DSA_Inclass/obj/Debug/net7.0/DSA_Ass1.genruntimeconfig.cache
+/Users/chidiebubesamuel/Projects/DSA_Inclass/DSA_Inclass/obj/Debug/net7.0/ref/DSA_Inclass.dll
